@@ -13,7 +13,7 @@ This repository thrives on community contributions. Whether you're fixing a bug,
 ### How to Contribute
 
 1. Fork this repository
-2. Create your feature branch (`git checkout -b feature`)
+2. Create your feature branch (`git checkout -b your_name_feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature`)
 5. Create a new Pull Request
