@@ -1,4 +1,4 @@
-# I am Kartikey Gupta!
+# Hi, I am Kartikey Gupta!
 
 Welcome to my repository on algorithms! 🚀 Here, you'll embark on a journey through the fascinating world of algorithms and data structures.
 
