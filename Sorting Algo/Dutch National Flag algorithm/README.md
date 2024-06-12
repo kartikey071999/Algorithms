@@ -1,7 +1,7 @@
 # Dutch National Flag Algorithm 🇳🇱
 
 The Dutch National Flag algorithm, devised by Edsger W. Dijkstra, is an efficient algorithm for sorting an array with three distinct values. It is named after the Dutch national flag, which consists of three colors in a specific order.
-
+### Personal note: It basically works as mid go through all the elements in the array and swap it with low or high as required, it works with 3 or fewer unique elements until it is modified.
 ## How It Works
 
 The algorithm uses three pointers to partition the array into three sections: low, mid, and high. Here's a step-by-step explanation:
